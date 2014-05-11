@@ -8,7 +8,11 @@ To build this app I will be using several Cocoapods and any other open source pr
 
 Cocoapods - Used
 
-Pulsing Halo
+Pulsing Halo - Beacon View
 TwitterCover
+TGLStackedView
+
+I'm still deciding how to display my view. The stacked passbookesque view is very nice so I'm leaning towards that direction
+
 
 
